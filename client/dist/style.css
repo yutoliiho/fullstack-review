@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: honeydew;
+  color: seagreen;
+}
+button {
+  width: 250px;
+  height: 50px;
+  font-size: large;
+}
+input {
+  width: 250px;
+  height: 50px;
+  font-size: large;
+}
+#app {
+  margin: 100px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+img {
+  width: 70%
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.groceries {
+  margin: 10px;
+  list-style-type: none;
+}
